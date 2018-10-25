@@ -1,0 +1,105 @@
+.container-fluid{
+    background-color: ghostwhite;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border-right: 40px solid #4b6245;
+    border-top: 10px solid #4b6245;
+    border-left: 40px solid #4b6245;
+    border-bottom: 10px solid #4b6245;
+}
+.header{
+    background-color: black;
+    padding: 10px 0px;
+    margin: 0px 0px 10px 0px;
+}
+.header a{
+    color: ghostwhite;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+.header a:hover{
+    color: #da5a3d;
+}
+.header p{
+    color: ghostwhite;
+    font-weight: bold;
+}
+.logo{
+    display: inline-block;
+    height: auto;
+}
+.logobar{
+    padding-bottom: 20px;
+}
+.title{
+    padding:60px 0px 0px 0px;
+}
+.phrase{
+    background-color: #4b6245;
+    padding: 10px 0px 10px 0px;
+}
+.phrase h2{
+    color: ghostwhite;
+    text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 3px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+.nav{
+    padding-bottom: 20px;
+}
+.nav .col-sm-10{
+    border-bottom: 2px solid #da5a3d;
+}
+.nav a h2{
+    padding-top: 10px;
+    float: left;
+    color: #4b6245;
+    font-weight: bold;
+}
+.location{
+    background-color: #4b6245;
+    color: ghostwhite;
+}
+.map{
+    background-color: #4b6245;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    background-color:black;
+    color:ghostwhite;
+    padding-top: 5px;
+}
+iframe{
+    margin: auto;
+    display: block;
+}
+.menu{
+    background-color: #4b6245;
+}
+.menu h2{
+    text-align: center;
+    font-weight: bold;
+    color: ghostwhite;
+}
+.items{
+    padding: 20px 0px 0px 0px;
+}
+.share h3, .solo h3{
+    font-weight: bold;
+    color: #4b6245;
+}
+.entree h4{
+    color: #da5a3d;
+}
+.food{
+    width: 25%;
+}
+.foodpic{
+    width: 75%;
+    padding: 10px 0px 0px 0px;
+    margin-bottom: 10px;
+}
