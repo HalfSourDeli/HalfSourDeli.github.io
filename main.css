@@ -88,7 +88,7 @@ iframe{
 .items{
     padding: 20px 0px 0px 0px;
 }
-.share h3, .solo h3, .mission h3{
+.share h3, .solo h3{
     font-weight: bold;
     color: #4b6245;
 }
@@ -102,4 +102,14 @@ iframe{
     width: 75%;
     padding: 10px 0px 0px 0px;
     margin-bottom: 10px;
+}
+.mission h3{
+    font-weight: bold;
+    text-align: center;
+    color: #4b6245;
+}
+.missionstatement h4{
+    text-align: center;
+    color: #da5a3d;
+    padding-bottom: 10px;
 }
